@@ -1,4 +1,4 @@
-from art import logo
+from Blind_Auction_Start.logo import logo
 
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 
             'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 
