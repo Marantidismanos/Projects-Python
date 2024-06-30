@@ -1,5 +1,5 @@
 import os
-clear = lambda:os.system('clear')
+clear = lambda:os.system('cls')
 from Blind_Auction_Start.logo import logo
 
 def max_bider(dictoner):
